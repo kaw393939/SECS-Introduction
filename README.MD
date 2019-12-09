@@ -44,16 +44,16 @@ This course presents fundamental software engineering concepts and technologies 
 * Course modules build from one unit to the next
 * Read all readings posted because they will allow you to review in detail some of the complex topics mentioned in the course
 ## Course Modules
-* [Setting up Visual Studio 2019 with C#, GIT, and Docker](https://github.com/kaw393939/SECS-Module1)
-* [Your first C# Component (DLL) with Unit Testing and using your C# Component in a Command Line Application (EXE)](https://github.com/kaw393939/SECS-Module2)
-* [Introduction to OOP programming fundamentals](https://github.com/kaw393939/SECS-Module3)
-* [Refactoring, Defensive Coding, and Object Oriented Design](https://github.com/kaw393939/SECS-Module4)
-* [3rd Party Libraries and Reading Writing CSV Files](https://github.com/kaw393939/SECS-Module5)
-* [Working with Data](https://github.com/kaw393939/SECS-Module6)
-* [SQL Databases](https://github.com/kaw393939/SECS-Module7)
-* [Simple Web Server](https://github.com/kaw393939/SECS-Module8)
-* [JSON and REST](https://github.com/kaw393939/SECS-Module9)
-* [Azure Cloud Deployment](https://github.com/kaw393939/SECS-Module10)
+1. [Setting up Visual Studio 2019 with C#, GIT, and Docker](https://github.com/kaw393939/SECS-Module1)
+2. [Your first C# Component (DLL) with Unit Testing and using your C# Component in a Command Line Application (EXE)](https://github.com/kaw393939/SECS-Module2)
+3. [Introduction to OOP programming fundamentals](https://github.com/kaw393939/SECS-Module3)
+4. [Refactoring, Defensive Coding, and Object Oriented Design](https://github.com/kaw393939/SECS-Module4) - To Be Completed
+5. [3rd Party Libraries and Reading Writing CSV Files](https://github.com/kaw393939/SECS-Module5) - To Be Completed
+6. [Working with Data](https://github.com/kaw393939/SECS-Module6)- To Be Completed
+7. [SQL Databases](https://github.com/kaw393939/SECS-Module7) - To Be Completed
+8. [Simple Web Server](https://github.com/kaw393939/SECS-Module8) - To Be Completed
+9. [JSON and REST](https://github.com/kaw393939/SECS-Module9) - To Be Completed
+10. [Azure Cloud Deployment](https://github.com/kaw393939/SECS-Module10) - To Be Completed
 ## Course Assignments
 * Setting up Visual Studio 2019 with C# solution that includes GIT and Docker
 * Creating your first component with unit testing
