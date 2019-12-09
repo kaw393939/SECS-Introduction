@@ -1,9 +1,11 @@
 # Course Overview
 
 This course presents fundamental software engineering concepts and technologies used to enable an Agile development workflow supported by DevOps processes and containerization technology.  The course provides hands-on experience with version control, testing, deployment, and clean coding practices within the context of the C# programming language and Azure Cloud.    
+[Video: Course Overview](https://www.youtube.com/watch?v=RGTg9UlshG4&list=PLytMRtonvCRX-ejGF2N7iguF5U6XpaFJj&index=2)
 ## General Information
 ### Instructor Information
 * See LMS (Moodle)
+* [Video: Instructor Introduction](https://www.youtube.com/watch?v=6eM18HjurC0&list=PLytMRtonvCRX-ejGF2N7iguF5U6XpaFJj&index=1)
 ### What are you going to learn in this course?
 #### Fundamental Software Engineering
 * Basic Object Oriented Programming and Design
@@ -84,6 +86,7 @@ The course project must include exception handling, unit testing, integration te
 Submit through Course Management System using a link to the project on GitHub
 # Course Introduction
 Software Engineering - "the systematic application of scientific and technological knowledge, methods, and experience to the design, implementation, testing, and documentation of software"—The Bureau of Labor Statistics—IEEE
+[Video: Course Content Introduction](https://www.youtube.com/watch?v=dsek7x1AQa4&list=PLytMRtonvCRX-ejGF2N7iguF5U6XpaFJj&index=3)
 ## Readings
 * [Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 * [12 Factor App](https://12factor.net/)
